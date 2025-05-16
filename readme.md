@@ -1,0 +1,1 @@
+# Sample RazorPages project to test rendering razor partial views to string in conjuction to htmx

@@ -1,0 +1,14 @@
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    margin-top: 1rem;
+}
+
+.select-container {
+    width: 100%;
+    max-width: 300px;
+    padding: 0.5rem;
+    cursor: pointer;
+}
